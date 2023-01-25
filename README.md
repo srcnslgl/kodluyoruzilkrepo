@@ -2,7 +2,7 @@
 Bu repo [Kodluyoruz] (https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![image] (https://picsum.photos/id/237/200/300)
+! [image] (https://picsum.photos/id/237/200/300)
 
 # Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
